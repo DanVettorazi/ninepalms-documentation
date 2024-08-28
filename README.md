@@ -57,7 +57,7 @@ This script was created to provide more controlled interactions between bubbles 
 # FollowParentWhilePassive
 
 <p align="center">
-  <img src="images/followParent" alt="component view">
+  <img src="images/FollowParent.png" alt="component view">
 </p>
 
 ## File Information
@@ -113,7 +113,7 @@ This script was developed to implement a crucial interaction mechanic in the Inf
 # MoveBubbleOnAxis (*OFFICIAL CODE*)
 
 <p align="center">
-  <img src="images/moveBubblesOnAxis" alt="component view">
+  <img src="images/moveBubblesOnAxis.png" alt="component view">
 </p>
 ## File Information
 - **File Name**: MoveBubbleOnAxis.cs
