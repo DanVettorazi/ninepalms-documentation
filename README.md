@@ -49,7 +49,9 @@ Attached to bubble GameObjects in the Infinite Canvas chapter, particularly for 
 - Allows for axis-specific movement constraints ✨
 
 ### Reason for Creation
+
 This script was created to provide more controlled interactions between bubbles in the Infinite Canvas chapter. It was necessary because full physics simulation with Rigidbodies would result in unpredictable movements. This custom solution allows for precise control over how bubbles interact and move when they come into contact with each other, ensuring they behave as desired within the constraints of the Infinite Canvas feature.
+
 --- 
 # FollowParentWhilePassive
 
