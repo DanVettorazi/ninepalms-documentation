@@ -1,5 +1,9 @@
 # BubbleModeOverwritter
 
+<p align="center">
+  <img src="images/modeoverwritter.png" alt="component view">
+</p>
+
 ## File Information
 - **File Name**: BubbleModeOverwritter.cs
 - **Location**: *Devs*/Daniel/Scripts
@@ -24,7 +28,9 @@ This script was created to force a change in the current mode of a bubble. It wa
 --- 
 
 # SphereInteraction (Fake RB physics)
-
+<p align="center">
+  <img src="images/fakerb.png" alt="component view">
+</p>
 ## File Information
 - **File Name**: SphereInteraction.cs
 - **Location**: *Devs*/Daniel/Scripts
@@ -49,6 +55,10 @@ Attached to bubble GameObjects in the Infinite Canvas chapter, particularly for 
 This script was created to provide more controlled interactions between bubbles in the Infinite Canvas chapter. It was necessary because full physics simulation with Rigidbodies would result in unpredictable movements. This custom solution allows for precise control over how bubbles interact and move when they come into contact with each other, ensuring they behave as desired within the constraints of the Infinite Canvas feature.
 --- 
 # FollowParentWhilePassive
+
+<p align="center">
+  <img src="images/followParent" alt="component view">
+</p>
 
 ## File Information
 - **File Name**: FollowParentWhilePassive.cs
@@ -102,6 +112,9 @@ This script was developed to implement a crucial interaction mechanic in the Inf
 
 # MoveBubbleOnAxis (*OFFICIAL CODE*)
 
+<p align="center">
+  <img src="images/moveBubblesOnAxis" alt="component view">
+</p>
 ## File Information
 - **File Name**: MoveBubbleOnAxis.cs
 - **Location**: *Devs*/Daniel/Scripts
@@ -175,6 +188,10 @@ By dynamically constraining movement to the most appropriate axis based on user 
 ---
 
 # MovementConstraint
+
+<p align="center">
+  <img src="images/movementConstraint.png" alt="component view">
+</p>
 
 ## File Information
 - **File Name**: MovementConstraint.cs
@@ -255,6 +272,10 @@ This script was developed to add a dynamic effect to the user interaction when t
 
 ---
 # ParticleSystemIntro
+
+<p align="center">
+  <img src="images/particle.png" alt="component view">
+</p>
 
 ## File Information
 - **File Name**: ParticleSystemIntro.cs
@@ -411,6 +432,10 @@ By implementing this shape transformation system, the script adds a dynamic and 
 ---
 
 # TableYConstraint
+
+<p align="center">
+  <img src="images/TableYConstraint.png" alt="component view">
+</p>
 
 ## File Information
 - **File Name**: TableYConstraint.cs
